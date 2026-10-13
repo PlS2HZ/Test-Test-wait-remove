@@ -1,0 +1,19 @@
+{
+  "name": "project_sa_bis",
+  "version": "2.0.0",
+  "description": "ระบบบริหารจัดการการฝึกอบรมพนักงาน (TRAIN TMS) - Dynamics Motion",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js",
+    "backend": "npm --prefix backend start",
+    "frontend": "npm --prefix frontend run dev"
+  },
+  "keywords": [
+    "sa",
+    "bis",
+    "dynamics-motion",
+    "training-management"
+  ],
+  "author": "นักศึกษาชั้นปีที่ 4 คณะวิทยาศาสตร์ มหาวิทยาลัยศิลปากร",
+  "license": "ISC"
+}
